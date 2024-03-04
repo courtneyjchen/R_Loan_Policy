@@ -8,4 +8,4 @@ In the Loan Policy Proposal project, a team and I developed a solution for a fin
 
 Link to RPubs: https://rpubs.com/courtneychen/1156757
 
-*Note: The project intentionally excludes final proposal to prevent unauthorized reuse.
+*Note: The project intentionally excludes the final proposal to prevent unauthorized reuse.
