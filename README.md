@@ -1,4 +1,4 @@
-# R Loan Policy: Predictive Modeling for Lending Decisions
+# R Loan Policy: Minimizing Lending Risk
 
 *Dislaimer: The data used in the following project is for non-commercial educational and personal use.*
 
